@@ -12,7 +12,7 @@
 
 
 
-<p align="left">✅ Gk bisa ngoding<br>🤖 Bugs hunters<br>🗿 Danbooru user<br>🦁 Peminat setia no.1 Chelsea<br>🤓 YTTA</p>
+<p align="left">•✅ Gk bisa ngoding<br>🤖 Bugs hunters<br>🗿 Danbooru user<br>🦁 Peminat setia no.1 Chelsea<br>🤓 YTTA</p>
 
 ###
 
