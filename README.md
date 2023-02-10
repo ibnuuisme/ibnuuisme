@@ -10,13 +10,13 @@
 
 ###
 
-<br clear="both">
+
 
 <p align="left">✅ Gk bisa ngoding<br>🤖 Bugs hunters<br>🗿 Danbooru user<br>🦁 Peminat setia no.1 Chelsea<br>🤓 YTTA</p>
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <img height="300" src="https://animesher.com/orig/2/209/2096/20964/animesher.com_gifs-anime-gifs-90s-anime-2096451.gif"/>
