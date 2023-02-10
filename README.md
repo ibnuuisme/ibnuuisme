@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img height="600" src="https://wallpaper.dog/large/20489782.jpg"/>
+  <img height="300" src="https://wallpaper.dog/large/20489782.jpg"/>
 </div>
 
 ###
