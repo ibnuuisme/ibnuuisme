@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img height="300" src="https://animesher.com/orig/2/209/2096/20964/animesher.com_gifs-anime-gifs-90s-anime-2096451.gif"/>
+  <img height="300" src="https://i.ibb.co/4fySkPh/Wallpaper-Dog-17199083-picsay.jpg"/>
 </div>
 
 ###
