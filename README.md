@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with:</h2>
 
 ###
 
@@ -37,6 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact me:</h2>
 
 ###
 
