@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img height="600" src="https://tenor.com/b1I8b.gif"/>
+  <img height="600" src="https://wallpaper.dog/large/20489782.jpg"/>
 </div>
 
 ###
