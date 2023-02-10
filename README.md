@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img height="600" src="https://i.ibb.co/SvVndrd/animesher-com-gifs-anime-gifs-90https://tenor.com/b1I8b.gif"/>
+  <img height="600" src="https://tenor.com/b1I8b.gif"/>
 </div>
 
 ###
