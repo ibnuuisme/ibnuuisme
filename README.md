@@ -62,3 +62,11 @@
 <img src="https://raw.githubusercontent.com/ibnuu/ibnuu/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">My Spotify</h2>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vqnxtns52g4srcsakljbeqegb&count={10})
+
+###
