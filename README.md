@@ -19,7 +19,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://animesher.com/orig/2/209/2096/20964/animesher.com_gifs-anime-gifs-90s-anime-2096451.gif"  />
+  <img height="300" src="https://animesher.com/orig/2/209/2096/20964/animesher.com_gifs-anime-gifs-90s-anime-2096451.gif"/>
 </div>
 
 ###
