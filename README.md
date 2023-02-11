@@ -12,7 +12,7 @@
 
 
 
-<p align="left"><b>• Gk bisa ngoding ✅<br>• バグハンター 🤖<br>• Danbooru user 🗿<br>• Peminat setia no.1 Chelsea 🦁<br>• YTTA 🤓</p></b>
+<p align="left"><b>• プログラミング言ができない ✅<br>• バグハンター 🤖<br>• ふつ人間だ 🗿<br>• 雨波ファンです。👄<br>• それだけ 🤓</p></b>
 
 ###
 
