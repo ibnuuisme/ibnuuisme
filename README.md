@@ -67,7 +67,7 @@
 
 ###
 
-<h2 align="left">My Spotify</h2>
+<h2 align="left"><b>スポティファイ</h2></b>
 
 ###
 
