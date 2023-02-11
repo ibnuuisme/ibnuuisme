@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">俺は誰？</h2>
+<h2 align="left"><b>俺は誰？</h2></b>
 
 ###
 
