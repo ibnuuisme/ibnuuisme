@@ -1,4 +1,4 @@
-<h1 align="left"><b>ようこそ👋😎</h1></b>
+<h1 align="left"><b>👋😎 ようこそ</h1></b>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left"><b>俺は誰？</h2></b>
+<h2 align="left"><b>👉😩 俺は誰？</h2></b>
 
 ###
 
