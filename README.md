@@ -75,7 +75,7 @@
 
 ###
 
-<h2 align="left">My stats:</h2>
+<h2 align="left"><b>スタティスティックス</h2></b>
 
 
 ###
