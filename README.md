@@ -10,7 +10,7 @@
     🐾 souffle 🐰 • Beer & variety of noodles 🐤🐥
 </pre>
 <br><br>
-<img src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" heighth="100" /> 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ###
 
