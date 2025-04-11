@@ -12,7 +12,7 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
-<p>
+<br><br>
 <img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" /></p>
 
 <br><br><br>
