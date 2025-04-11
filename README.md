@@ -11,12 +11,17 @@
 </pre>
 <br><br>
 <img src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" height="100" /><img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" height="100" />
+
+###
+
+<h2 align="left">🤖 Tech Stack :</h2>
+
+###
 <br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
