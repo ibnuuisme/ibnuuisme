@@ -6,7 +6,7 @@
     💼 WebDev • Back-end dev • Platform Engineer
     💻 System programming languages • GNU/Linux 
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Crypto
+    🎮 Music • Games • Anime • Manga • Crypto
     🐾 souffle 🐰 • Beer & variety of noodles 🐤🐥
 </pre>
 <br><br>
