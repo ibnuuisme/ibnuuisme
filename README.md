@@ -10,7 +10,7 @@
     🐾 souffle 🐰 • Beer & variety of noodles 🐤🐥
 </pre>
 <br><br>
-<img src="https://media1.tenor.com/m/uCANUeyg0toAAAAC/mwah-miku.gif" heighth="100" align="left" /> 
+<img src="https://media1.tenor.com/m/uCANUeyg0toAAAAC/mwah-miku.gif" heighth="100" align="center" /> 
 
 ###
 
