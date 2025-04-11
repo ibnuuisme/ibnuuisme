@@ -1,5 +1,5 @@
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/ibnuuisme/count.svg)
 ```
 
 <h1 align="left"><b>👋😎 ようこそ</h1></b>
