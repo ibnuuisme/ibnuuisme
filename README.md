@@ -17,6 +17,8 @@
 <h2 align="left">🤖 Tech Stack :</h2>
 
 ###
+<img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="33%" align="left" />
+
 <br><br><br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/)
