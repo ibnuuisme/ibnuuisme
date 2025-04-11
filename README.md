@@ -10,7 +10,7 @@
     🐾 souffle 🐰 • Beer & variety of noodles 🐤🐥
 </pre>
 <br><br>
-<img src="https://media.tenor.com/I8ZX_XGKSrAAAAAi/blue-archive-alisu.gif" heighth="50" align="center" /> 
+<img src="https://media.tenor.com/I8ZX_XGKSrAAAAAi/blue-archive-alisu.gif" heighth="20%" /> 
 
 ###
 
