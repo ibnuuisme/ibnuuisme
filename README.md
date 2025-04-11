@@ -12,12 +12,8 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
-###
-
-<h2 align="left">🤖 Tech Stack :</h2>
-
-###
-<img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" />
+<p>
+<img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" /></p>
 
 <br><br><br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
