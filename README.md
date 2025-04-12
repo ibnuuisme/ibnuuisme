@@ -1,5 +1,5 @@
  <header>
-        <img src="https://i.ibb.co.com/N24hY9Hz/header.jpg" width="30%" align="center"/>
+        <img src="https://i.ibb.co.com/N24hY9Hz/header.jpg" width="100%" align="center"/>
     </header>
 <div align="center">
 <img src=https://i.ibb.co.com/4RCd8s5Q/peakpx.jpg width="27%" align="right" />
