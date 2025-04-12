@@ -31,6 +31,11 @@
 <p align="center" >  
   <a href="https://github.com/ibnuuisme/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=ibnuuisme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
   </a>
   </p>
 </div>
