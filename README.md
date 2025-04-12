@@ -1,3 +1,6 @@
+ <header>
+        <img src="https://i.ibb.co.com/N24hY9Hz/header.jpg" />
+    </header>
 <div align="center">
 <img src=https://i.ibb.co.com/4RCd8s5Q/peakpx.jpg width="27%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4E6CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ibnu%2C+a+WEB3+enjoyer+%E2%9C%A9" width="70%" />
