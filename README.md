@@ -13,7 +13,7 @@
     🐾 souffle 🐰 • Beer & variety of noodles 🐤🐥
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.tenor.com/LDbmPzn4_VYAAAAi/momoidance-saibamomoi.gif" height="100" />
 
 <br><br>
 <img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" /></p>
