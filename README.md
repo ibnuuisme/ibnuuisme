@@ -33,7 +33,7 @@
 
 <p align="center" >  
   <a href="https://github.com/ibnuuisme/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ibnuuisme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuuisme&theme=merko&show_icons=true&hide_border=false&layout=compact"/>
 
 <br clear="both">
 
