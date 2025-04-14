@@ -7,10 +7,10 @@
 <br><br>
 <pre>
     💼 WebDev • Back-end dev • Platform Engineer
-    💻 System programming languages • GNU/Linux 
-    📖 Software architecture • Distributed systems
+    🖥️ System programming languages • GNU/Linux 
+    📑 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Manga • Crypto
-    🐾 souffle 🐰 • Beer & variety of noodles 🐤🐥
+    🥐 souffle 🍜 • Beer & variety of noodles 🍔🌭
 </pre>
 <br><br>
 <img src="https://media.tenor.com/LDbmPzn4_VYAAAAi/momoidance-saibamomoi.gif" height="100" />
