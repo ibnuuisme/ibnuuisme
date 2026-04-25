@@ -3,7 +3,7 @@
     </header>
 <div align="center">
 <img src=https://i.ibb.co.com/S4DCz9bj/shogun-raiden-genshin-impact-full-body-render-by-deg5270-deqwe2o.png width="27%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4E6CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Baraya;I'm+Ibnu%2C+a+WEB3+enjoyer+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1300&height=140&lines=Hello+Baraya;I'm+Ibnu%2C+a+WEB3+enjoyer+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
     💼 WebDev • Front-end dev • Platform Engineer
@@ -13,7 +13,9 @@
     🥐 souffle 🍜 • Beer & variety of noodles 🍔🌭
 </pre>
 <br><br>
+<img src="https://media.tenor.com/0RI1ko_QWOEAAAAi/bakushin-sakura-bakushin-o.gif" height="100" />
 <img src="https://media.tenor.com/A93CAlQ333AAAAAj/bakushin-sakura-bakushin-o.gif" height="100" />
+<img src="https://media.tenor.com/oHDfNiJ2cN0AAAAi/bakushin-sakura-bakushin-o.gif" height="100" />
 
 <br><br>
 <img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" /></p>
