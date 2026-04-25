@@ -1,5 +1,5 @@
  <header>
-        <img src="https://i.ibb.co/P7d4Rbj/asuka-2.jpg" width="100%" align="center"/>
+        <img src="https://i.ibb.co.com/M5RSDJP9/Asuka-My-Bini.png" width="100%" align="center"/>
     </header>
 <div align="center">
 <img src=https://i.ibb.co.com/S4DCz9bj/shogun-raiden-genshin-impact-full-body-render-by-deg5270-deqwe2o.png width="27%" align="right" />
