@@ -6,14 +6,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4E6CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Baraya;I'm+Ibnu%2C+a+WEB3+enjoyer+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 WebDev • Back-end dev • Platform Engineer
+    💼 WebDev • Front-end dev • Platform Engineer
     🖥️ System programming languages • GNU/Linux 
     📑 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Manga • Crypto
     🥐 souffle 🍜 • Beer & variety of noodles 🍔🌭
 </pre>
 <br><br>
-<img src="https://media.tenor.com/LDbmPzn4_VYAAAAi/momoidance-saibamomoi.gif" height="100" />
+<img src="https://media.tenor.com/A93CAlQ333AAAAAj/bakushin-sakura-bakushin-o.gif" height="100" />
 
 <br><br>
 <img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" /></p>
