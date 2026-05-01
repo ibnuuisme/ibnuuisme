@@ -1,5 +1,5 @@
  <header>
-        <img src="https://i.ibb.co.com/M5RSDJP9/Asuka-My-Bini.png" width="100%" align="center"/>
+        <img src="https://i.ibb.co.com/Vcjj8wPC/Chat-GPT-Image-May-1-2026-10-54-40-AM.png" width="100%" align="center"/>
     </header>
 <div align="center">
 <img src=https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif width="27%" align="right" />
