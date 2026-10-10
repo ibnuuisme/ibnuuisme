@@ -2,7 +2,7 @@
         <img src="https://i.ibb.co.com/Vcjj8wPC/Chat-GPT-Image-May-1-2026-10-54-40-AM.png" width="100%" align="center"/>
     </header>
 <div align="center">
-<img src=https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif width="27%" align="right" />
+<img src=https://media.tenor.com/Ie7L8Uh4RjwAAAAi/sakura-bakushin-o-bakushin.gif width="27%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1300&height=140&lines=Hello+Baraya;I'm+Ibnu%2C+a+WEB3+enjoyer+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
