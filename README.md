@@ -18,7 +18,7 @@
 <img src="https://media.tenor.com/oHDfNiJ2cN0AAAAi/bakushin-sakura-bakushin-o.gif" height="100" />
 
 <br><br>
-<img src=https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif width="40%" align="left" /></p>
+<img src=https://media.tenor.com/pMjMaDDkeowAAAAi/bakushin-sakura-bakushin-o.gif width="40%" align="left" /></p>
 
 <br><br><br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
