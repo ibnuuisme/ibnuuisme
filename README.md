@@ -32,7 +32,8 @@
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 
-
+<p align="center" >  
+<img src="https://media.tenor.com/oGB1PwrFn9MAAAAi/bakushin-sakura-bakushin-o.gif" height="100"/>
 
 <br clear="both">
 
